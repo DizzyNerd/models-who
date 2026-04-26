@@ -1,0 +1,590 @@
+{
+  "source": "https://models.dev/api.json",
+  "fetchedAt": "2026-04-26T21:06:18.387Z",
+  "providerCount": 115,
+  "modelCount": 4329,
+  "providers": [
+    {
+      "id": "302ai",
+      "name": "302.AI",
+      "count": 95
+    },
+    {
+      "id": "abacus",
+      "name": "Abacus",
+      "count": 65
+    },
+    {
+      "id": "aihubmix",
+      "name": "AIHubMix",
+      "count": 52
+    },
+    {
+      "id": "alibaba",
+      "name": "Alibaba",
+      "count": 42
+    },
+    {
+      "id": "alibaba-cn",
+      "name": "Alibaba (China)",
+      "count": 77
+    },
+    {
+      "id": "alibaba-coding-plan",
+      "name": "Alibaba Coding Plan",
+      "count": 9
+    },
+    {
+      "id": "alibaba-coding-plan-cn",
+      "name": "Alibaba Coding Plan (China)",
+      "count": 9
+    },
+    {
+      "id": "amazon-bedrock",
+      "name": "Amazon Bedrock",
+      "count": 94
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic",
+      "count": 23
+    },
+    {
+      "id": "azure",
+      "name": "Azure",
+      "count": 106
+    },
+    {
+      "id": "azure-cognitive-services",
+      "name": "Azure Cognitive Services",
+      "count": 99
+    },
+    {
+      "id": "bailing",
+      "name": "Bailing",
+      "count": 2
+    },
+    {
+      "id": "baseten",
+      "name": "Baseten",
+      "count": 13
+    },
+    {
+      "id": "berget",
+      "name": "Berget.AI",
+      "count": 5
+    },
+    {
+      "id": "cerebras",
+      "name": "Cerebras",
+      "count": 4
+    },
+    {
+      "id": "chutes",
+      "name": "Chutes",
+      "count": 70
+    },
+    {
+      "id": "clarifai",
+      "name": "Clarifai",
+      "count": 11
+    },
+    {
+      "id": "cloudferro-sherlock",
+      "name": "CloudFerro Sherlock",
+      "count": 5
+    },
+    {
+      "id": "cloudflare-ai-gateway",
+      "name": "Cloudflare AI Gateway",
+      "count": 74
+    },
+    {
+      "id": "cloudflare-workers-ai",
+      "name": "Cloudflare Workers AI",
+      "count": 8
+    },
+    {
+      "id": "cohere",
+      "name": "Cohere",
+      "count": 12
+    },
+    {
+      "id": "cortecs",
+      "name": "Cortecs",
+      "count": 34
+    },
+    {
+      "id": "drun",
+      "name": "D.Run (China)",
+      "count": 3
+    },
+    {
+      "id": "deepinfra",
+      "name": "Deep Infra",
+      "count": 33
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "count": 4
+    },
+    {
+      "id": "digitalocean",
+      "name": "DigitalOcean",
+      "count": 46
+    },
+    {
+      "id": "dinference",
+      "name": "DInference",
+      "count": 3
+    },
+    {
+      "id": "evroc",
+      "name": "evroc",
+      "count": 13
+    },
+    {
+      "id": "fastrouter",
+      "name": "FastRouter",
+      "count": 15
+    },
+    {
+      "id": "fireworks-ai",
+      "name": "Fireworks AI",
+      "count": 18
+    },
+    {
+      "id": "firmware",
+      "name": "Firmware",
+      "count": 25
+    },
+    {
+      "id": "friendli",
+      "name": "Friendli",
+      "count": 6
+    },
+    {
+      "id": "github-copilot",
+      "name": "GitHub Copilot",
+      "count": 27
+    },
+    {
+      "id": "github-models",
+      "name": "GitHub Models",
+      "count": 55
+    },
+    {
+      "id": "gitlab",
+      "name": "GitLab Duo",
+      "count": 15
+    },
+    {
+      "id": "google",
+      "name": "Google",
+      "count": 37
+    },
+    {
+      "id": "groq",
+      "name": "Groq",
+      "count": 27
+    },
+    {
+      "id": "helicone",
+      "name": "Helicone",
+      "count": 90
+    },
+    {
+      "id": "hpc-ai",
+      "name": "HPC-AI",
+      "count": 3
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face",
+      "count": 23
+    },
+    {
+      "id": "iflowcn",
+      "name": "iFlow",
+      "count": 14
+    },
+    {
+      "id": "inception",
+      "name": "Inception",
+      "count": 2
+    },
+    {
+      "id": "inference",
+      "name": "Inference",
+      "count": 9
+    },
+    {
+      "id": "io-net",
+      "name": "IO.NET",
+      "count": 17
+    },
+    {
+      "id": "jiekou",
+      "name": "Jiekou.AI",
+      "count": 61
+    },
+    {
+      "id": "kilo",
+      "name": "Kilo Gateway",
+      "count": 335
+    },
+    {
+      "id": "kimi-for-coding",
+      "name": "Kimi For Coding",
+      "count": 3
+    },
+    {
+      "id": "kuae-cloud-coding-plan",
+      "name": "KUAE Cloud Coding Plan",
+      "count": 1
+    },
+    {
+      "id": "llama",
+      "name": "Llama",
+      "count": 7
+    },
+    {
+      "id": "llmgateway",
+      "name": "LLM Gateway",
+      "count": 185
+    },
+    {
+      "id": "lmstudio",
+      "name": "LMStudio",
+      "count": 3
+    },
+    {
+      "id": "lucidquery",
+      "name": "LucidQuery AI",
+      "count": 2
+    },
+    {
+      "id": "meganova",
+      "name": "Meganova",
+      "count": 19
+    },
+    {
+      "id": "minimax",
+      "name": "MiniMax (minimax.io)",
+      "count": 6
+    },
+    {
+      "id": "minimax-cn",
+      "name": "MiniMax (minimaxi.com)",
+      "count": 6
+    },
+    {
+      "id": "minimax-coding-plan",
+      "name": "MiniMax Coding Plan (minimax.io)",
+      "count": 6
+    },
+    {
+      "id": "minimax-cn-coding-plan",
+      "name": "MiniMax Coding Plan (minimaxi.com)",
+      "count": 6
+    },
+    {
+      "id": "mistral",
+      "name": "Mistral",
+      "count": 27
+    },
+    {
+      "id": "mixlayer",
+      "name": "Mixlayer",
+      "count": 5
+    },
+    {
+      "id": "moark",
+      "name": "Moark",
+      "count": 2
+    },
+    {
+      "id": "modelscope",
+      "name": "ModelScope",
+      "count": 7
+    },
+    {
+      "id": "moonshotai",
+      "name": "Moonshot AI",
+      "count": 7
+    },
+    {
+      "id": "moonshotai-cn",
+      "name": "Moonshot AI (China)",
+      "count": 7
+    },
+    {
+      "id": "morph",
+      "name": "Morph",
+      "count": 3
+    },
+    {
+      "id": "nano-gpt",
+      "name": "NanoGPT",
+      "count": 525
+    },
+    {
+      "id": "nebius",
+      "name": "Nebius Token Factory",
+      "count": 49
+    },
+    {
+      "id": "nova",
+      "name": "Nova",
+      "count": 2
+    },
+    {
+      "id": "novita-ai",
+      "name": "NovitaAI",
+      "count": 96
+    },
+    {
+      "id": "nvidia",
+      "name": "Nvidia",
+      "count": 79
+    },
+    {
+      "id": "ollama-cloud",
+      "name": "Ollama Cloud",
+      "count": 37
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "count": 51
+    },
+    {
+      "id": "opencode-go",
+      "name": "OpenCode Go",
+      "count": 14
+    },
+    {
+      "id": "opencode",
+      "name": "OpenCode Zen",
+      "count": 58
+    },
+    {
+      "id": "openrouter",
+      "name": "OpenRouter",
+      "count": 177
+    },
+    {
+      "id": "ovhcloud",
+      "name": "OVHcloud AI Endpoints",
+      "count": 10
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "count": 4
+    },
+    {
+      "id": "perplexity-agent",
+      "name": "Perplexity Agent",
+      "count": 16
+    },
+    {
+      "id": "poe",
+      "name": "Poe",
+      "count": 130
+    },
+    {
+      "id": "privatemode-ai",
+      "name": "Privatemode AI",
+      "count": 5
+    },
+    {
+      "id": "qihang-ai",
+      "name": "QiHang",
+      "count": 9
+    },
+    {
+      "id": "qiniu-ai",
+      "name": "Qiniu",
+      "count": 91
+    },
+    {
+      "id": "regolo-ai",
+      "name": "Regolo AI",
+      "count": 13
+    },
+    {
+      "id": "requesty",
+      "name": "Requesty",
+      "count": 38
+    },
+    {
+      "id": "sap-ai-core",
+      "name": "SAP AI Core",
+      "count": 23
+    },
+    {
+      "id": "scaleway",
+      "name": "Scaleway",
+      "count": 16
+    },
+    {
+      "id": "siliconflow",
+      "name": "SiliconFlow",
+      "count": 74
+    },
+    {
+      "id": "siliconflow-cn",
+      "name": "SiliconFlow (China)",
+      "count": 81
+    },
+    {
+      "id": "stackit",
+      "name": "STACKIT",
+      "count": 8
+    },
+    {
+      "id": "stepfun",
+      "name": "StepFun",
+      "count": 4
+    },
+    {
+      "id": "submodel",
+      "name": "submodel",
+      "count": 9
+    },
+    {
+      "id": "synthetic",
+      "name": "Synthetic",
+      "count": 32
+    },
+    {
+      "id": "tencent-coding-plan",
+      "name": "Tencent Coding Plan (China)",
+      "count": 8
+    },
+    {
+      "id": "tencent-tokenhub",
+      "name": "Tencent TokenHub",
+      "count": 1
+    },
+    {
+      "id": "the-grid-ai",
+      "name": "The Grid AI",
+      "count": 3
+    },
+    {
+      "id": "togetherai",
+      "name": "Together AI",
+      "count": 17
+    },
+    {
+      "id": "upstage",
+      "name": "Upstage",
+      "count": 3
+    },
+    {
+      "id": "v0",
+      "name": "v0",
+      "count": 3
+    },
+    {
+      "id": "venice",
+      "name": "Venice AI",
+      "count": 66
+    },
+    {
+      "id": "vercel",
+      "name": "Vercel AI Gateway",
+      "count": 241
+    },
+    {
+      "id": "google-vertex",
+      "name": "Vertex",
+      "count": 29
+    },
+    {
+      "id": "google-vertex-anthropic",
+      "name": "Vertex (Anthropic)",
+      "count": 12
+    },
+    {
+      "id": "vivgrid",
+      "name": "Vivgrid",
+      "count": 12
+    },
+    {
+      "id": "vultr",
+      "name": "Vultr",
+      "count": 5
+    },
+    {
+      "id": "wafer.ai",
+      "name": "Wafer",
+      "count": 2
+    },
+    {
+      "id": "wandb",
+      "name": "Weights & Biases",
+      "count": 17
+    },
+    {
+      "id": "xai",
+      "name": "xAI",
+      "count": 25
+    },
+    {
+      "id": "xiaomi",
+      "name": "Xiaomi",
+      "count": 5
+    },
+    {
+      "id": "xiaomi-token-plan-cn",
+      "name": "Xiaomi Token Plan (China)",
+      "count": 5
+    },
+    {
+      "id": "xiaomi-token-plan-ams",
+      "name": "Xiaomi Token Plan (Europe)",
+      "count": 5
+    },
+    {
+      "id": "xiaomi-token-plan-sgp",
+      "name": "Xiaomi Token Plan (Singapore)",
+      "count": 5
+    },
+    {
+      "id": "zai",
+      "name": "Z.AI",
+      "count": 13
+    },
+    {
+      "id": "zai-coding-plan",
+      "name": "Z.AI Coding Plan",
+      "count": 4
+    },
+    {
+      "id": "zenmux",
+      "name": "ZenMux",
+      "count": 89
+    },
+    {
+      "id": "zhipuai",
+      "name": "Zhipu AI",
+      "count": 12
+    },
+    {
+      "id": "zhipuai-coding-plan",
+      "name": "Zhipu AI Coding Plan",
+      "count": 4
+    }
+  ],
+  "modalities": [
+    "audio",
+    "image",
+    "pdf",
+    "text",
+    "video"
+  ]
+}
