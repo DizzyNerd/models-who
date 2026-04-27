@@ -153,10 +153,7 @@ export function App() {
           <RefreshCw data-icon="inline-start" className={refreshing ? "animate-spin" : ""} />
           {refreshing ? "Refreshing" : "Fetch latest"}
           </Button>
-          <span>
-            Updates this session from <code>models.dev/api.json</code>. Run{" "}
-            <code>npm run fetch:data</code> to persist a new build snapshot.
-          </span>
+          <span>Update models from models.dev</span>
           {refreshError ? <strong className="text-destructive">{refreshError}</strong> : null}
         </CardContent>
       </Card>
