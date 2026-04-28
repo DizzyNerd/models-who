@@ -111,7 +111,7 @@ export function App() {
   if (error) {
     return (
       <main className="grid min-h-screen place-content-center gap-3 bg-background p-6 text-center text-foreground">
-        <h1 className="text-2xl font-semibold">Models Fast</h1>
+        <h1 className="text-2xl font-semibold">Models, who?</h1>
         <p className="text-destructive">{error}</p>
         <p className="text-sm text-muted-foreground">
           Run <code>npm run fetch:data</code> and restart the dev server.
@@ -123,7 +123,7 @@ export function App() {
   if (!meta) {
     return (
       <main className="grid min-h-screen place-content-center gap-3 bg-background p-6 text-center text-foreground">
-        <h1 className="text-2xl font-semibold">Models Fast</h1>
+        <h1 className="text-2xl font-semibold">Models, who?</h1>
         <p className="text-sm text-muted-foreground">Loading snapshot...</p>
       </main>
     );
@@ -133,7 +133,7 @@ export function App() {
     <main className="flex h-screen min-h-0 flex-col overflow-hidden bg-muted/30 p-4 text-foreground md:p-6">
       <header className="mb-4 grid shrink-0 gap-4 lg:grid-cols-[minmax(260px,1fr)_minmax(320px,560px)] lg:items-end">
         <div>
-          <h1 className="text-3xl font-semibold tracking-tight">Models Fast</h1>
+          <h1 className="text-3xl font-semibold tracking-tight">Models, who?</h1>
           <p className="mt-1 text-sm text-muted-foreground">
             {filteredModels.length.toLocaleString()} of {meta.modelCount.toLocaleString()} models,
             {` ${meta.providerCount.toLocaleString()} providers`}. Snapshot{" "}
